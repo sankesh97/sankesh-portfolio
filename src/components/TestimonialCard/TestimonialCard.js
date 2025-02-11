@@ -1,0 +1,1 @@
+import classes from '@/components/TestimonialCard/TestimonialCard.module.css';
