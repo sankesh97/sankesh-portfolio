@@ -1,0 +1,6 @@
+.ctabutton {
+  background-color: var(--light-orange);
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 20;
+}
