@@ -38,3 +38,19 @@ body {
   background: var(--background);
   font-family: var(--karla);
 }
+
+.seashell-bg {
+  background: var(--seashell);
+}
+
+.bg-erie-black {
+  background: var(--erie-black);
+}
+
+.orange-bg {
+  background: var(--orange);
+}
+
+.light-orange-bg {
+  background: var(--light-orange);
+}

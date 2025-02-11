@@ -12,7 +12,7 @@ const gasoekOne = Gasoek_One({
 const karla = Karla({
   variable: "--karla",
   subsets: ["latin"],
-  weight: ["400", "700"]
+  weight: ["400", "600", "700"]
 });
 
 export const metadata = {
